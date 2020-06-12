@@ -58,9 +58,9 @@ jalan("\033[1;91m      ▇▇◣◥▅▅▅◤◢▇▇
 jalan("\033[1;96m      ▇▇▇◣╲▇╱◢▇▇▇
 jalan("\033[1;91m      ▇▇▇▇◣▇◢▇▇▇▇
 jalan("\033[1;97m      ...................................
-jalan("\033[1;91m                         SADIQ BALOCH
-jalan("\033[1;91m                                      X
-jalan("\033[1;91m                               A BALOCH         
+jalan("\033[1;91m          SADIQ BALOCH
+jalan("\033[1;91m                X
+jalan("\033[1;91m             A BALOCH         
 \033[1;96m                  Tiger Updated 0.3                   
 \033[1;91m       ♦♦♦———————————————————————————————♦♦♦
 """
@@ -455,7 +455,7 @@ def pilih_super():
 	raw_input("\n\033[1;97m[\033[1;97mExit\033[1;97m]")
 	super()
 
-def brute():
+def brute():Baloch
     os.system('clear')
     try:
         toket = open('login.txt', 'r').read()
